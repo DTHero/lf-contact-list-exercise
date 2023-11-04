@@ -1,0 +1,22 @@
+.login__container {
+  height: 100%;
+}
+
+.login__grid {
+  height: inherit;
+  justify-content: center;
+}
+
+.login__form {
+  align-self: center;
+  height: 60%;
+  min-width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.login__field {
+  max-width: 75%;
+  max-height: 200px;
+  align-self: center;
+}
